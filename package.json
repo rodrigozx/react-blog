@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/rodrigozx/react-blog.git"
   },
-  "author": "",
+  "author": "rodrigo blanco",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
